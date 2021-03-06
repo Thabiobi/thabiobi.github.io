@@ -1,0 +1,128 @@
+{
+    "main": {
+        "name": "Thabisile Obi",
+        "description": "Revealing the secrets of data to construct data-driven solutions",
+        "image": "profilepic.jpg",
+        "bio": "I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.",
+        "contactmessage": "Contact me for collaborations, contracts and freelancing gigs.",
+        "email": "thabisileobi@gmail.com",
+        "phone": "+27 83 471 0354",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "",
+            "city": "Johannesburg",
+            "state": "Gauteng"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "http://linkedin.com/in/thabisile-obi",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My academic studies have enabled me to gain exposure to qualitative research, critical thinking and writing skills. I have also developed quantitative skills, which include data analysis, model development and performing statistical analyses. The zest for solving problems with data leads me to the ideal career path in Data Science.",
+        "education": [
+            {
+                "school": "University of London",
+                "degree": "MSc in Data Science and Financial Technology",
+                "graduated": "2022",
+                "description": "Currently completing my MSc"
+            },
+            {
+                "school": "University of Pretoria",
+                "degree": "BA Honours in Political Science",
+                "graduated": "2020",
+                "description": "Received distinction in Research Methodology and partial scholarship from the University of Pretoria"
+            }
+        ],
+        "work": [
+            {
+                "company": "Dimension Data",
+                "title": "Data Science Intern",
+                "years": "July 2020 - Present",
+                "description": ""
+            },
+            {
+                "company": "University of Pretoria",
+                "title": "Tutor",
+                "years": "February 2019 - October 2019",
+                "description": "Tutored struggling, average and advanced students in Politics and International Relations - 5 classes a week with approximately 9 - 25 students in a class"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "Data Science",
+                "level": "90%"
+            },
+            {
+                "name": "Data Visualization",
+                "level": "95%"
+            },
+            {
+                "name": "Machine Learning",
+                "level": "85%"
+            },
+            {
+                "name": "Research",
+                "level": "90%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
