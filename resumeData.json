@@ -17,16 +17,6 @@
         "resumedownload": "https://drive.google.com/file/d/1UYMr9X6VTseF8DDYEEiSmRE4P78p-PrZ/view?usp=sharing",
         "social": [
             {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
-            },
-            {
                 "name": "linkedin",
                 "url": "http://linkedin.com/in/thabisile-obi",
                 "className": "fa fa-linkedin"
@@ -105,7 +95,7 @@
                 "url": "https://github.com/Thabiobi/Explore_Data_Science_Academy_Projects"
             },
             {
-                "title": "Google Analytics Capstone Project",
+                "title": "Capstone Project",
                 "category": "Capstone project completed using R programming",
                 "image": "project2.jpg",
                 "url": "https://github.com/Thabiobi/Google_analytics_capstone"
