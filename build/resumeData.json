@@ -6,16 +6,15 @@
         "bio": "I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.",
         "contactmessage": "Contact me for collaborations, contracts and freelancing gigs.",
         "email": "thabisileobi@gmail.com",
-        "phone": "+27 83 471 0354",
-        "github": "https://github.com/",
-        "project": "https://github.com/",
+        "phone": "+27 83 451 6032",
+        "github": "https://github.com/Thabiobi",
+        "project": "https://github.com/Thabiobi/Explore_Data_Science_Academy_Projects",
         "address": {
-            "street": "",
-            "city": "Johannesburg",
-            "state": "Gauteng"
+            "city": "Johannesburg,",
+            "state": "South Africa"
         },
         "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "resumedownload": "https://drive.google.com/file/d/1UYMr9X6VTseF8DDYEEiSmRE4P78p-PrZ/view?usp=sharing",
         "social": [
             {
                 "name": "facebook",
@@ -39,7 +38,7 @@
             },
             {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/Thabiobi",
                 "className": "fa fa-github"
             }
         ]
@@ -51,7 +50,7 @@
                 "school": "University of London",
                 "degree": "MSc in Data Science and Financial Technology",
                 "graduated": "2022",
-                "description": "Currently completing my MSc"
+                "description": "Beginning in Septemebr 2021"
             },
             {
                 "school": "University of Pretoria",
@@ -64,8 +63,8 @@
             {
                 "company": "Dimension Data",
                 "title": "Data Science Intern",
-                "years": "July 2020 - Present",
-                "description": ""
+                "years": "July 2020 - June 2021",
+                "description": "Applied the data analytics full-cycle methodological approach to perform service ticket data analysis"
             },
             {
                 "company": "University of Pretoria",
@@ -85,7 +84,7 @@
             },
             {
                 "name": "Data Visualization",
-                "level": "95%"
+                "level": "80%"
             },
             {
                 "name": "Machine Learning",
@@ -100,29 +99,24 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "EDSA Projects",
+                "category": "Various projects completed during learnership at EDSA",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/Thabiobi/Explore_Data_Science_Academy_Projects"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Google Analytics Capstone Project",
+                "category": "Capstone project completed using R programming",
                 "image": "project2.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/Thabiobi/Google_analytics_capstone"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Hackathons",
+                "category": "Participation in Hackathons",
                 "image": "project3.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/Thabiobi"
             }
+            
         ]
     }
 }
